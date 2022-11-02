@@ -1,0 +1,17 @@
+html {
+    background: #3A3939;
+    color: #F1F1F1;
+}
+
+.mensaje{
+    background: #4F4E4E;
+    width: 50%;
+    height: 38vh;
+    text-align: center;
+    align-items: center;
+    padding: auto;
+    padding-top: 8%;
+    margin-top: 8%;
+    margin-left: 25%;
+    border-radius: 10%;
+}
